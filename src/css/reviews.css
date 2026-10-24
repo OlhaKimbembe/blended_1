@@ -1,1 +1,43 @@
-/* Сюди додавай стилі частинки Reviews */
+.reviews {
+  background-color: #0e1823;
+}
+.reviews-title {
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 1;
+  text-align: center;
+  color: #fbfbfb;
+}
+.reviews-description {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.3;
+
+  text-align: center;
+  color: #b4b7ba;
+}
+.reviews-list {
+}
+.reviews-item {
+}
+.description-ill {
+}
+.reviews-name {
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.1;
+  text-align: center;
+  color: #040306;
+}
+
+.reviews-text {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.4;
+  text-align: center;
+  color: #989899;
+}
